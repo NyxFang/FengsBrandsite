@@ -152,7 +152,7 @@ li.special{
 .item_right{
 	float:right;
 	margin-top:5px;
-	margin-right:75px;
+	margin-right:71px;
 	margin-bottom:5px;
 	font-size:12px;
 	width:308px;
@@ -187,7 +187,8 @@ li.special{
 }
 .products_thumbnail{
 	width:290px;
-	margin-left:8px;
+	margin-right:auto;
+	margin-left:auto;
 	border:1px solid #a0a0a0;
 }
 .copyright{
