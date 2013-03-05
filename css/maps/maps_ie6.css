@@ -12,6 +12,8 @@ html,body {
 a{
 	color:#000000;
 	text-decoration:none;
+	outline:none;
+	blr:e­xpression(this.onFocus=this.blur())
 }
 a:hover{
 	text-decoration:underline;

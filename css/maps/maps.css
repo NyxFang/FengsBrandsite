@@ -12,6 +12,8 @@ html,body {
 a{
 	color:#000000;
 	text-decoration:none;
+	outline:none;
+	hidefocus:true;
 }
 a:hover{
 	text-decoration:underline;
